@@ -11,7 +11,7 @@ def main():
    print '++++++++++++++++++++++++++++'
    print '     DATE:2020              '
    print '     POWER:HADES            '
-   print '                            '
+   print '\n                         '
    print '                            '
    print '███░▒▓███████▓▒░█.'
    print '▀▄▀▄▀▄▀N▀▄▀▄▀▄▀▄▀ '
